@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+</p> 
 
 - 🌱 I’m currently learning cs
 - 🤔 I’m looking for help with web development
