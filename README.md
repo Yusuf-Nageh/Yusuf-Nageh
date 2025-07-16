@@ -10,7 +10,6 @@
 
 <br/>
 <div>
-<img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 
 </div>
